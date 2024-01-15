@@ -1,4 +1,4 @@
-# main_script_to_textfile.py
+# java2s3.py
 import requests
 from urllib.parse import urljoin
 import re
@@ -66,7 +66,7 @@ if __name__ == "__main__":
     import sys
 
     if len(sys.argv) != 4:
-        print("Usage: python main_script_to_textfile.py input_file base_domain output_file")
+        print("Usage: python java2s3.py input_file base_domain output_file")
         sys.exit(1)
 
     input_filename = sys.argv[1]
