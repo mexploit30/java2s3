@@ -1,4 +1,4 @@
-# js2S3 Amazon S3 Bucket Enumeration Tool
+# java2S3 Amazon S3 Bucket Enumeration Tool
 
 ## Introduction
 
